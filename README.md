@@ -1,4 +1,4 @@
-# Altun | Blur Card Component Example
+# Altun | Blur Card Component Example 1
 
 # Build with
 * [Create React App](https://github.com/facebook/create-react-app).
